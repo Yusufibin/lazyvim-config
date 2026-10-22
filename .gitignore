@@ -1,0 +1,18 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# Fichiers locaux et identifiants
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.swp
+*.swo
+.DS_Store
