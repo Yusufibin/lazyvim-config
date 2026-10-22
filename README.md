@@ -2,6 +2,8 @@
 
 Ma configuration personnelle de Neovim, basée sur LazyVim, avec le thème Gruvbox et des raccourcis inspirés des éditeurs classiques.
 
+![Aperçu de ma configuration LazyVim avec Gruvbox et deux fichiers Lua ouverts côte à côte](assets/screenshot.png)
+
 ## Fonctionnalités
 
 - **Gruvbox** avec un contraste fort.
